@@ -25,4 +25,6 @@ so don't loose the hope and learn and create lot's of new things to get a good a
 in the field of the development like react.js node.js express etc 
 
 
-
+and today i'm working on a new task i think on the admin panel and today i'm working on it
+so not doing lot's of things in this page but yes some work on this admin page 
+and i think i'm creating and design this page well and good
