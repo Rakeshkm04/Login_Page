@@ -19,3 +19,10 @@ so in this form not lot's of functionality but only the learning process i desig
 how to create and design the login page
 
 
+
+it is the starting phase to learn the development and this process or a journey is too long and the longer
+so don't loose the hope and learn and create lot's of new things to get a good and the best job
+in the field of the development like react.js node.js express etc 
+
+
+
