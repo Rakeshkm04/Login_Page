@@ -32,4 +32,7 @@ and i think i'm creating and design this page well and good
 
 
 
-So, this is the normal Login page and the technologies i.e used to make this login page is html, css and bootstrpa
+So, this is the normal Login page and the technologies i.e used to make this login page is html, css and bootstrp
+
+And the main thing is this is the basic and best project or the practice and learing new things
+in this project so learn and crease our own projects in the pear system only html and css
