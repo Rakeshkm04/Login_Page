@@ -28,3 +28,8 @@ in the field of the development like react.js node.js express etc
 and today i'm working on a new task i think on the admin panel and today i'm working on it
 so not doing lot's of things in this page but yes some work on this admin page 
 and i think i'm creating and design this page well and good
+
+
+
+
+So, this is the normal Login page and the technologies i.e used to make this login page is html, css and bootstrpa
